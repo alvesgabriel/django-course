@@ -1,1 +1,2 @@
 DEBUG=False
+SECRET_KEY=secret key with 50 characteres
