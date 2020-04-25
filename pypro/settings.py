@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
-    'collectfast',
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
@@ -133,8 +132,6 @@ STATICFILES_STORAGE = 'cloudinary_storage.storage.StaticHashedCloudinaryStorage'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'mediafiles')
 
-COLLECTFAST_ENABLED = False
-
 # Cloudinary credentials
 CLOUDINARY_STORAGE = {
     'CLOUD_NAME': config('CLOUDINARY_CLOUD_NAME'),
@@ -145,4 +142,3 @@ CLOUDINARY_STORAGE = {
 if CLOUDINARY_STORAGE['CLOUD_NAME'] and CLOUDINARY_STORAGE['API_KEY'] and CLOUDINARY_STORAGE['API_SECRET']:
     STATIC_URL = '/django-course/static/'
     MEDIA_URL = '/django-course/media/'
-    COLLECTFAST_ENABLED = True
