@@ -1,3 +1,5 @@
+[ ~ Dependencies scanned by PyUp.io ~ ]
+
 # django-course
 Code developed in Django module from www.python.pro.br
 
