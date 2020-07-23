@@ -7,8 +7,8 @@ certifi==2020.4.5.1 \
 chardet==3.0.4 \
     --hash=sha256:fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691 \
     --hash=sha256:84ab92ed1c4d4f16916e05906b6b75a6c0fb5db821cc65e70cbd64a3e2a5eaae
-cloudinary==1.20.0 \
-    --hash=sha256:299a684d523959ac7845bfc767282409f33dd06ebf3b0f6d77feb0a908240463
+cloudinary==1.22.0 \
+    --hash=sha256:aee360d0d5bfb285d98fe64711f43f52bf03c237a446ce0c2a09131dca7f596f
 collectfast==2.1.0 \
     --hash=sha256:b60fd6a369a8b53a1a75bf5236d98cdd3fa7692b8b18fa7bec8afd8be9647eab \
     --hash=sha256:6e0ace218f908feec545ae30143d0a44457b4c61d7d3c35ff2ebf4f1fb8f4c41
