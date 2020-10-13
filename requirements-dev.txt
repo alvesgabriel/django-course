@@ -21,9 +21,8 @@ codecov==2.0.22 \
 collectfast==2.1.0 \
     --hash=sha256:b60fd6a369a8b53a1a75bf5236d98cdd3fa7692b8b18fa7bec8afd8be9647eab \
     --hash=sha256:6e0ace218f908feec545ae30143d0a44457b4c61d7d3c35ff2ebf4f1fb8f4c41
-colorama==0.4.3; sys_platform == "win32" \
-    --hash=sha256:7d73d2a99753107a36ac6b455ee49046802e59d9d076ef8e47b61499fa29afff \
-    --hash=sha256:e96da0d330793e2cb9485e9ddfd918d456036c7149416295932478192f4436a1
+colorama==0.4.4; sys_platform == "win32" \
+    --hash=sha256:9f47eda37229f68eee03b24b9748937c7dc3868f906e8ba69fbcbdd3bc5dc3e2
 coverage==5.1 \
     --hash=sha256:0cb4be7e784dcdc050fc58ef05b71aa8e89b7e6636b99967fadbdba694cf2b65 \
     --hash=sha256:c317eaf5ff46a34305b202e73404f55f7389ef834b8dbf4da09b9b9b37f76dd2 \
