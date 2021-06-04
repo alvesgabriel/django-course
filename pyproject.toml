@@ -6,7 +6,7 @@ authors = ["alvesgabriel <gabriel.alves.monteiro1@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-django = "^3.0.5"
+django = "^3.1.9"
 gunicorn = "^20.0.4"
 python-decouple = "^3.3"
 dj-database-url = "^0.5.0"
